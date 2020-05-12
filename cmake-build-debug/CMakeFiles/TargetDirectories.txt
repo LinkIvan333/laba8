@@ -1,0 +1,6 @@
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/client.dir
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/main.dir
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/tests.dir
+/home/ivan/Git/lab-08-asio-client-template/cmake-build-debug/CMakeFiles/test.dir
