@@ -1,8 +1,7 @@
-// Copyright 2018 Avsyankaa <Avsyankaa@gmail.com>
+// Copyright 2020 <LinkIvan333>
 
+#include <client.h>
 #include <gtest/gtest.h>
-
-#include <client.hpp>
 
 TEST(talk_to_srv, Test1) {
   EXPECT_TRUE(true);

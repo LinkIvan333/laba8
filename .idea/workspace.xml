@@ -3,8 +3,8 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="client" targetName="main" />
-      <config projectName="client" targetName="client" />
       <config projectName="client" targetName="tests" />
+      <config projectName="client" targetName="client" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -14,12 +14,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159fdd89-55b7-46d1-b0b8-e94ff20f1b94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/sources/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/sources/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/sources/source.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/sources/source.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/sources/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/sources/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/sources/source.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/sources/source.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tests.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tests.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tests.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tests.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/client.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/client.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/libclientd.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libclientd.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/client.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/client.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sources/source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sources/source.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +83,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Google Test.tests" />
       <item itemvalue="CMake Application.client" />
       <item itemvalue="CMake Application.main" />
-      <item itemvalue="Google Test.tests" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -80,7 +100,8 @@
       <updated>1589271632388</updated>
       <workItem from="1589271637114" duration="24000" />
       <workItem from="1589272487286" duration="877000" />
-      <workItem from="1589274695847" duration="188000" />
+      <workItem from="1589274695847" duration="566000" />
+      <workItem from="1589275989168" duration="412000" />
     </task>
     <servers />
   </component>
@@ -92,21 +113,21 @@
       <screen x="67" y="27" width="1613" height="1023" />
     </state>
     <state x="636" y="231" width="424" height="484" key="FileChooserDialogImpl/67.27.1613.1023@67.27.1613.1023" timestamp="1589271657543" />
-    <state width="1527" height="183" key="GridCell.Tab.0.bottom" timestamp="1589272582265">
+    <state width="1527" height="183" key="GridCell.Tab.0.bottom" timestamp="1589275262402">
       <screen x="67" y="27" width="1613" height="1023" />
     </state>
-    <state width="1527" height="183" key="GridCell.Tab.0.bottom/67.27.1613.1023@67.27.1613.1023" timestamp="1589272582265" />
-    <state width="1527" height="183" key="GridCell.Tab.0.center" timestamp="1589272582264">
+    <state width="1527" height="183" key="GridCell.Tab.0.bottom/67.27.1613.1023@67.27.1613.1023" timestamp="1589275262402" />
+    <state width="1527" height="183" key="GridCell.Tab.0.center" timestamp="1589275262401">
       <screen x="67" y="27" width="1613" height="1023" />
     </state>
-    <state width="1527" height="183" key="GridCell.Tab.0.center/67.27.1613.1023@67.27.1613.1023" timestamp="1589272582264" />
-    <state width="1527" height="183" key="GridCell.Tab.0.left" timestamp="1589272582260">
+    <state width="1527" height="183" key="GridCell.Tab.0.center/67.27.1613.1023@67.27.1613.1023" timestamp="1589275262401" />
+    <state width="1527" height="183" key="GridCell.Tab.0.left" timestamp="1589275262401">
       <screen x="67" y="27" width="1613" height="1023" />
     </state>
-    <state width="1527" height="183" key="GridCell.Tab.0.left/67.27.1613.1023@67.27.1613.1023" timestamp="1589272582260" />
-    <state width="1527" height="183" key="GridCell.Tab.0.right" timestamp="1589272582265">
+    <state width="1527" height="183" key="GridCell.Tab.0.left/67.27.1613.1023@67.27.1613.1023" timestamp="1589275262401" />
+    <state width="1527" height="183" key="GridCell.Tab.0.right" timestamp="1589275262401">
       <screen x="67" y="27" width="1613" height="1023" />
     </state>
-    <state width="1527" height="183" key="GridCell.Tab.0.right/67.27.1613.1023@67.27.1613.1023" timestamp="1589272582265" />
+    <state width="1527" height="183" key="GridCell.Tab.0.right/67.27.1613.1023@67.27.1613.1023" timestamp="1589275262401" />
   </component>
 </project>

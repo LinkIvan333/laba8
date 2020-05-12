@@ -10,6 +10,7 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../"
   "../include"
   "/home/ivan/.hunter/_Base/70287b1/9b2c9d4/dffbc08/Install/include"
   )

@@ -1,6 +1,6 @@
 // Copyright 2020 <LinkIvan333>
 
-#include <client.hpp>
+#include <client.h>
 
 int main() {
     std::string username;

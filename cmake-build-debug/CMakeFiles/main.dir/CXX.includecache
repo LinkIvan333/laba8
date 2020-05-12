@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-../include/client.hpp
+../include/client.h
 string
 -
 iostream
@@ -20467,10 +20467,10 @@ boost/winapi/basic_types.hpp
 -
 
 /home/ivan/Git/lab-08-asio-client-template/sources/main.cpp
-client.hpp
+client.h
 -
 
 /home/ivan/Git/lab-08-asio-client-template/sources/source.cpp
-client.hpp
+include/client.h
 -
 
