@@ -20466,6 +20466,10 @@ boost/winapi/basic_types.hpp
 boost/winapi/basic_types.hpp
 -
 
+/home/ivan/Git/lab-08-asio-client-template/sources/main.cpp
+client.hpp
+-
+
 /home/ivan/Git/lab-08-asio-client-template/sources/source.cpp
 client.hpp
 -
