@@ -54,8 +54,9 @@ void Client::process_msg()
         msg += buff[i];
     }
     if ( msg.find("login ") == 0) on_login(msg);
-    else if ( msg.find("ping") == 0 or msg.find("ping") == 1) on_ping(msg);
-    else if ( msg.find("clients ") == 0 or msg.find("clients ") == 1) on_clients(msg);
+    else if ( msg.find("ping") == 0 || msg.find("ping") == 1) on_ping(msg);
+    else if ( msg.find("clients ") == 0 ||
+             msg.find("clients ") == 1) on_clients(msg);
     else
         std::cerr << msg;
 }
@@ -63,7 +64,8 @@ void Client::process_msg()
 void Client::on_ping(const std::string & msg)
 {
     std::cout << msg;
-    if (msg.find("ping client_list_changed") == 1 or msg.find("ping client_list_changed") == 0)
+    if (msg.find("ping client_list_changed") == 1 ||
+        msg.find("ping client_list_changed") == 0)
         do_ask_clients();
 }
 

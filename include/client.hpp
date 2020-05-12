@@ -21,7 +21,7 @@
 #include <boost/smart_ptr/make_shared_object.hpp>
 #include <boost/thread.hpp>
 
-const int PORT=8001;
+const int PORT = 8001;
 const unsigned int max_msg = 1024;
 const int sleep_time = 7000;
 class Client
@@ -35,7 +35,7 @@ public:
 private:
     boost::asio::io_service service;
     boost::asio::ip::tcp::socket socket;
-    char buff[max_msg];
+    char buff[1024];
     bool started;
     std::string username_;
     void read_answer();
